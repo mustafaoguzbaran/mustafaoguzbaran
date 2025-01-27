@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on EasyCep<br>👯 I’m looking to collaborate on DevLog<br>🌱 I’m currently learning PHP, Laravel, Phalcon, Symfony, GoLang, Kotlin, C#, .NET, Microservices <br>💬 Ask me about PHP, Laravel, Phalcon, Symfony, C#, .NET
+🔭 I’m currently working on EasyCep<br>👯 I’m looking to collaborate on DevLog<br>🌱 I’m currently learning PHP, Laravel, Phalcon, Symfony, GoLang, Kotlin, C#, .NET, Microservices, Kotlin <br>💬 Ask me about PHP, Laravel, Phalcon, Symfony, C#, .NET
 
 
 ## 🌐 Socials:

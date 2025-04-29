@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on FOGETO<br>👯 I’m looking to collaborate on HoldBell<br>🌱 I’m currently learning PHP, Laravel, Phalcon, Symfony, GoLang, Kotlin, Microservices, Kotlin<br>💬 Ask me about PHP, Laravel, Phalcon, Symfony, Kotlin, Backend
+🔭 I’m currently working on AYSSOFT Bilgi Teknolojileri<br>👯 I’m looking to collaborate on HoldBell<br>🌱 I’m currently learning PHP, Laravel, Phalcon, Symfony, GoLang, Kotlin, Microservices, Kotlin<br>💬 Ask me about PHP, Laravel, Phalcon, Symfony, Kotlin, Backend
 
 
 ## 🌐 Socials:

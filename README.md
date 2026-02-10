@@ -1,25 +1,137 @@
-# 💫 About Me:
-🔭 I’m currently working on AYSSOFT Bilgi Teknolojileri<br>👯 I’m looking to collaborate on HoldBell<br>🌱 I’m currently learning PHP, Laravel, Phalcon, Symfony, GoLang, Kotlin, Microservices, Kotlin<br>💬 Ask me about PHP, Laravel, Phalcon, Symfony, Kotlin, Backend
+<div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+</picture>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mustafaoguzbaran) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mustafaoguzbaran) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mustafaoguzbaran) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mustafaoguzbaran) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/engineerbaran) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mustafaoguzbaran@icloud.com) 
+# 👋 Merhaba, Ben Mustafa Oğuz BARAN
 
-# 💻 Tech Stack:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mustafaoguzbaran&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mustafaoguzbaran&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaoguzbaran&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### 💻 Backend Developer & Computer Engineer
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mustafaoguzbaran&theme=github_dark&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Backend+Geliştirme+Uzman%C4%B1;Mikroservis+Mimarileri;FOGETO+Kurucu%C5%9Fu;S%C3%BCrekli+%C3%96%C4%9Frenen+Geli%C5%9Ftirici" alt="Typing SVG" />
+</p>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mustafaoguzbaran&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mustafaoguzbaran) 
+## 🚀 Hakkımda
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Bilgisayar Mühendisiyim ve **backend geliştirme** alanında uzmanlaşmış bir yazılım geliştiriciyim. Şu anda **AYSSOFT Bilgi Teknolojileri**'nde çalışıyor, kendi kuruluşum **FOGETO** bünyesinde boş zamanlarımda yenilikçi projeler geliştiriyorum.
+
+```typescript
+const mustafa = {
+  role: "Mid Level Backend Developer",
+  company: "AYSSOFT Bilgi Teknolojileri",
+  organization: "FOGETO",
+  location: "Turkey 🇹🇷",
+  focus: ["Microservices", "API Development", "System Architecture"],
+  currentlyLearning: ["GoLang", "Kotlin", "Advanced Microservices"],
+  collaboration: "FOGETO projelerinde her zaman açığım! 🤝"
+};
+```
+
+---
+
+## 🛠️ Teknoloji Yığınım
+
+### 💡 Backend & Languages
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+
+### 🎯 Frameworks & Tools
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+
+### ⚙️ DevOps & Tools
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+
+### ☁️ Cloud & Hosting
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+
+---
+
+## 🎯 Odak Alanlarım
+
+<div align="center">
+
+| 🔧 Backend Development | 🏗️ Microservices | 🚀 API Design |
+|:---:|:---:|:---:|
+| RESTful API Development | Service Orchestration | OpenAPI/Swagger |
+| Authentication & Security | Message Queuing | Performance Optimization |
+| Database Architecture | Container Orchestration | API Gateway Patterns |
+
+</div>
+
+---
+
+## 🌐 Benimle İletişime Geçin
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mustafaoguzbaran)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mustafaoguzbaran)
+[![X](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/engineerbaran)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mustafaoguzbaran@icloud.com)
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mustafaoguzbaran)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/mustafaoguzbaran)
+
+</div>
+
+---
+
+## 💼 Şu Anda
+
+- 🏢 **AYSSOFT Bilgi Teknolojileri**'nde backend geliştirme
+- 🚀 **FOGETO** bünyesinde yenilikçi projeler üzerinde çalışıyorum
+- 📚 **GoLang** ve **Kotlin** ile mikroservis mimarileri öğreniyorum
+- 🤝 Açık kaynak projelerinde işbirliğine açığım
+
+---
+
+## ☕ Destek Olmak İster misiniz?
+
+Projelerime katkıda bulunmak veya bir kahve ısmarlayarak destek olmak isterseniz:
+
+<div align="center">
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mustafaoguzbaran)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 "Kod yazmak sanat, çözüm üretmek tutkudur."
+
+<img src="https://komarev.com/ghpvc/?username=mustafaoguzbaran&color=3B82F6&style=for-the-badge&label=Profil+Görüntülenme" alt="Profile views" />
+
+</div>

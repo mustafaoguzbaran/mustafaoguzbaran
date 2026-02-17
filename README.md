@@ -11,7 +11,7 @@
 ### 💻 Backend Developer & Computer Engineer
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Backend+Geliştirme+Uzman%C4%B1;Mikroservis+Mimarileri;FOGETO+Kurucu%C5%9Fu;S%C3%BCrekli+%C3%96%C4%9Frenen+Geli%C5%9Ftirici" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Backend+Geliştirme+Uzman%C4%B1;Mikroservis+Mimarileri;FOGETO+Kurucusu;S%C3%BCrekli+%C3%96%C4%9Frenen+Geli%C5%9Ftirici" alt="Typing SVG" />
 </p>
 
 </div>
